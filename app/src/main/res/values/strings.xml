@@ -1,0 +1,163 @@
+<resources>
+    <string name="app_name">LoveQuest</string>
+
+    <string name="your_name">Your name</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="select_your_gender">Select your gender</string>
+    <string name="play">Play</string>
+    <string name="choose_answer">Select the answer from the given options</string>
+
+    <!--  Game Questions  -->
+    <string name="q1">In which range does that person\'s name first letter falls under?.</string>
+    <string name="q2">Where did you see that person?</string>
+    <string name="q3">How does that person look like?</string>
+    <string name="q4">What is that person\'s hair cut style?</string>
+    <string name="q5">What is the face color of that person?</string>
+    <string name="q6">How does that person\'s eye look like?</string>
+    <string name="q7">What type of attitude/behaviour does that person have?</string>
+    <string name="q8">What type of cloth suits good on that person?</string>
+    <string name="q9">Do you love that person?</string>
+    <string name="q10">Do you like that person?</string>
+    <string name="q11">Does that person likes you?</string>
+    <string name="q12">Does that person has proposed you?</string>
+    <string name="q13">Does that person truly likes you?</string>
+    <string name="q14">In what way that person looks to you?</string>
+    <string name="a25">That person should better not to love you.</string>
+    <string name="a26">That person want\s to know your feelings.</string>
+    <string name="a27">That person loves you but could not able to confess.</string>
+    <string name="a28">That person truly loves you.</string>
+    <string name="a29">That person loves you very much.</string>
+    <string name="a30">That person truly loves you.</string>
+    <string name="a31">That person just want to pass the time with you.</string>
+    <string name="a32">That person want\'s to see you.</string>
+    <string name="a33">That person does not loves you.</string>
+    <string name="a34">That person hates you.</string>
+    <string name="a35">That person cannot live without you.</string>
+    <string name="a36">That person loves your eyes.</string>
+    <string name="a37">That person want\'s to meet you.</string>
+    <string name="a38">That person want\'s your phone number to talk to you.</string>
+    <string name="a39">That person always remembers you.</string>
+    <string name="a40">That person want\'s to go away from you.</string>
+    <string name="a41">That person does not remembers you.</string>
+    <string name="a42">That person want\'s to give you a Red Rose.</string>
+    <string name="a43">That person thinks you\'re not a good girl.</string>
+    <string name="a44">That person thinks you as a toy for him/her.</string>
+    <string name="a45">That person looks to you as a friend.</string>
+    <string name="a46">That person looks you as his/her brother/sister.</string>
+    <string name="a47">That person trust you very much.</string>
+    <string name="a48">That person will betray you very soon.</string>
+    <string name="a49">That person want\'s to propose you.</string>
+    <string name="a50">That person will never betray you.</string>
+    <string name="a51">That person loves you because of your money.</string>
+    <string name="a52">That person loves you as his/her life friend.</string>
+    <string name="a53">That person loves you but very little.</string>
+    <string name="a54">That person loves you from the core of his/her heart.</string>
+
+    <string name="inconvenience">, sorry for inconvenience but please make sure you answer all the questions.</string>
+    <string name="show_result">Show Result</string>
+    <string name="note">* Note: This app is made just for fun so, do not over react to the answer.</string>
+    <string name="result_text"> according to your given answer, the result is:</string>
+
+    <string name="exit">Exit</string>
+    <string name="play_again">Play again</string>
+
+    <string-array name="q1_options">
+        <item>Select your answer</item>
+        <item>A --- G</item>
+        <item>H --- N</item>
+        <item>O --- T</item>
+        <item>U --- Z</item>
+    </string-array>
+    <string-array name="q2_options">
+        <item>Select your answer</item>
+        <item>School</item>
+        <item>College</item>
+        <item>Bus</item>
+        <item>Other / I don\'t Know</item>
+    </string-array>
+    <string-array name="q3_options">
+        <item>Select your answer</item>
+        <item>Fat</item>
+        <item>Slim</item>
+        <item>Fit and Fine</item>
+        <item>Other / I don\'t Know</item>
+    </string-array>
+    <string-array name="q4_options">
+        <item>Select your answer</item>
+        <item>Boys Cut</item>
+        <item>Army Cut</item>
+        <item>Modern Cut</item>
+        <item>Other / I don\'t Know</item>
+    </string-array>
+    <string-array name="q5_options">
+        <item>Select your answer</item>
+        <item>Black</item>
+        <item>White</item>
+        <item>Mid-Black</item>
+        <item>Other / I don\'t Know</item>
+    </string-array>
+    <string-array name="q6_options">
+        <item>Select your answer</item>
+        <item>Beautiful</item>
+        <item>Ugly</item>
+        <item>Good</item>
+        <item>Other / I don\'t Know</item>
+    </string-array>
+    <string-array name="q7_options">
+        <item>Select your answer</item>
+        <item>Good</item>
+        <item>Bad</item>
+        <item>Friendly</item>
+        <item>Other / I don\'t Know</item>
+    </string-array>
+    <string-array name="q8_options">
+        <item>Select your answer</item>
+        <item>Pant and shirt</item>
+        <item>Coat and pant</item>
+        <item>Normal dress</item>
+        <item>Other / I don\'t Know</item>
+    </string-array>
+    <string-array name="q9_options">
+        <item>Select your answer</item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>In Dilemma</item>
+        <item>Other / I don\'t Know</item>
+    </string-array>
+    <string-array name="q10_options">
+        <item>Select your answer</item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>In Dilemma</item>
+        <item>Other / I don\'t Know</item>
+    </string-array>
+    <string-array name="q11_options">
+        <item>Select your answer</item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>I don\'t Know</item>
+    </string-array>
+    <string-array name="q12_options">
+        <item>Select your answer</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="q13_options">
+        <item>Select your answer</item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>I don\'t Know</item>
+    </string-array>
+    <string-array name="q14_options">
+        <item>Select your answer</item>
+        <item>Friend</item>
+        <item>Girl Friend / Boy Friend</item>
+        <item>Other / I don\'t Know</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+</resources>
